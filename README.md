@@ -10,7 +10,7 @@ It is useful if you are looking to make money on Hypixel Skyblock!
 # Auction House Z Download
 You install AuctionHouseZ just like you install any other Forge 1.8.9 mod, download and put it in your mods folder!
  
- IMPORTANT: AuctionHouseZ may conflict with Skytils, NEU and or SBE because they all are trying to use the same API.
+ IMPORTANT: AuctionHouseZ may conflict with Skytils, NEU and or SBE because they all are trying to use the same API. USING THIS MOD ON FEATHER CLIENT MAY RESULT IN GAME CRASHES/THE MOD NOT WORKING.
  
 This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/798784523599872000/995838322234638406/AuctionHouseZ.jar)
 
