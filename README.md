@@ -24,6 +24,10 @@ Z - toggles the sniper
 
 K - Shows margins between items of the same type
 
+/ahz margins [%]
+
+/ahz profit [number]
+
 
 ![image](https://user-images.githubusercontent.com/108312076/178125721-f1fd879a-aeb7-4ecb-b65b-d14f49f3269d.png)
 ![image](https://user-images.githubusercontent.com/108312076/178125722-36ac5983-2c57-4c42-94b8-650bf76a4af0.png)
