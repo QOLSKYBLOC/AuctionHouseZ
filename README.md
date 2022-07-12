@@ -12,7 +12,7 @@ You install AuctionHouseZ just like you install any other Forge 1.8.9 mod, downl
  
  IMPORTANT: AuctionHouseZ may conflict with Skytils, NEU and or SBE because they all are trying to use the same API. USING THIS MOD ON FEATHER CLIENT MAY RESULT IN GAME CRASHES/THE MOD NOT WORKING.
  
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/798784523599872000/996216599650517092/AuctionHouseZ.jar)
+This side mod can be downloaded [HERE]()
 
 # Is this bannable?
 No, this mod is not bannable as it is not using any sort of macro to make the purchases and does not add any sort of exploitation to the game.
